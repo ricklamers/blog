@@ -62,7 +62,7 @@ params:
   ShowCodeCopyButtons: false
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
-  images: ["/cover.jpg"]
+  images: ["/cover.png"]
 
   UseHugoToc: true
   disableSpecial1stPost: false
