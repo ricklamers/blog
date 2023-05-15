@@ -48,7 +48,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Rick Lamers' blog
-  description: "Yet Another Blog about software engineering & ML"
+  description: "My personal blog about software engineering & ML"
   keywords: [Blog]
   author: Rick Lamers
   DateFormat: "January 2, 2006"
