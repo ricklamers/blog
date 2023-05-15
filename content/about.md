@@ -31,6 +31,7 @@ Some of the technologies I work with: Ray, (Py)Spark, PyTorch, Hugging Face, Pyt
 ### Noteable open source projects
 - Orchest (3.8k ⭐) - [github.com/orchest/orchest](https://github.com/orchest/orchest)
 - Grid Studio (8.8k ⭐) - [github.com/ricklamers/gridstudio](https://github.com/ricklamers/gridstudio)
+- Malloy for Node-RED (6 ⭐) - [ricklamers/malloy-node-red-flows](https://github.com/ricklamers/malloy-node-red-flows)
 - Slack IPython (44 ⭐) - [github.com/ricklamers/slack-ipython](https://github.com/ricklamers/slack-ipython)
 
 ### Tutorials
