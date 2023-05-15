@@ -49,6 +49,7 @@ Some of the technologies I work with: Ray, (Py)Spark, PyTorch, Hugging Face, Pyt
     - Research Software Developer at [Keadyn](https://www.keadyn.com/)
 - 2011-2017
     - Owner of Web Development Agency
+    - Developed & Sold a document processing system at age 16
 
 ### Education
 - 2017-2019
