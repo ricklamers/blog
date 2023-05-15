@@ -1,0 +1,130 @@
+baseURL: http://ricklamers.io
+languageCode: en-us
+paginate: 5
+title: Rick Lamers' blog
+theme: PaperMod
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: Tags
+                  url: tags/
+                  weight: 10
+                - name: Search
+                  url: search/
+                  weight: 15
+                - name: About
+                  url: about/
+                  weight: 15
+                - name: Rss
+                  pre: "<img style='display:inline-block; width: 18px; transform: translateY(1px); padding-right: 5px;' src='/rss.svg'></img>"
+                  url: index.xml
+                  
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: G-N4C9NPMZGD
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Rick Lamers' blog
+  description: "Yet Another Blog about software engineering & ML"
+  keywords: [Blog]
+  author: Rick Lamers
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "favicon.png"
+    favicon16x16: "favicon16.png"
+    favicon32x32: "favicon32.png"
+    apple_touch_icon: "favicon.png"
+    safari_pinned_tab: "favicon.png"
+
+  label:
+    text: "Rick Lamers' blog"
+    icon: /favicon.png
+    iconHeight: 32
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog. Here I share my thoughts about software engineering & ML. Check out my [about page](/about) to learn more about me.
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/RickLamers"
+    - name: github
+      url: "https://github.com/ricklamers"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/ricklamers/blog/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
