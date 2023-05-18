@@ -15,7 +15,7 @@ cover:
     alt: "GPT-Code UI screenshot"
 comments: false
 description: "It's called GPT-Code UI and is now available on GitHub and PyPI"
-canonicalURL: "https://ricklamers.io/posts/writing-resources"
+canonicalURL: "https://ricklamers.io/posts/gpt-code"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
