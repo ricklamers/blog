@@ -14,7 +14,7 @@ cover:
     image: "gpt-code-cover.png"
     alt: "GPT-Code UI screenshot"
 comments: false
-description: "It's called GPT-Code and is now available on GitHub and PyPI"
+description: "It's called GPT-Code UI and is now available on GitHub and PyPI"
 canonicalURL: "https://ricklamers.io/posts/writing-resources"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -31,7 +31,7 @@ UseHugoToc: true
 
 tl;dr: [github.com/ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) and to run it `pip install gpt-code-ui && gptcode`
 
-Alright, I'll cut right to the chase. I've built GPT-Code because OpenAI couldn't be bothered to give me access to their new fancy ChatGPT Code Interpreter. And most likely, you don't have access either.
+Alright, I'll cut right to the chase. I've built GPT-Code UI because OpenAI couldn't be bothered to give me access to their new fancy ChatGPT Code Interpreter. And most likely, you don't have access either.
 
 What _is_ ChatGPT Code Interpreter? Well, it's basically a REPL (read–eval–print loop) that's integrated with the coding abilities of ChatGPT. It allows you to do really neat things like give it a file and ask it to convert it, or extract some information from it or upload it! If you want a longer explanation you can watch [this](https://youtu.be/RPX7dHe-1is?t=67) YouTube video.
 
@@ -48,12 +48,12 @@ The problem with that project is that you still have to write your own code. It'
 
 Queue GPT code models!
 
-# The project: GPT-Code
+# The project: GPT-Code UI
 I wanted the project to be as simple as possible from a local installation perspective. One of my suspicions is that OpenAI hasn't released the ChatGPT Code Interpreter to a wider public yet is because it's effectively exposing a cloud compute VM (albeit heavily sliced like Google Colab does) to all of ChatGPT (Plus?) users. That's a) some serious engineering work and b) an even more serious cloud bill.
 
 Because I don't have free infinite cloud computing either I thought the best course of action would be to let everyone use their good ol' own computer.
 
-To make it easy to get up and running I wanted the install process to be `pip install gpt-code` and nothing more. Since the heavy lifting is done by the hosted model inference run by OpenAI most of the code that needs to run locally is actually fairly simple.
+To make it easy to get up and running I wanted the install process to be `pip install gpt-code-ui` and nothing more. Since the heavy lifting is done by the hosted model inference run by OpenAI most of the code that needs to run locally is actually fairly simple.
 
 For including the frontend (built in React) I borrowed a trick from the excellent [Streamlit](https://github.com/streamlit/streamlit) project. You just build a web SPA client and bundle it into your Python package right before you upload it to PyPI. Technical detail: they used CRACO (Create React App Configuration Override) but I went with the more modern [Vite](https://github.com/vitejs/vite) for bundling the SPA.
 
