@@ -1,5 +1,5 @@
 ---
-title: "Building a local ChatGPT Code Interpreter"
+title: "Writing my own ChatGPT Code Interpreter"
 date: 2023-05-17T12:00:00+02:00
 # weight: 1
 # aliases: ["/first"]
