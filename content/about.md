@@ -29,6 +29,7 @@ Some of the technologies I work with: Ray, (Py)Spark, PyTorch, Hugging Face, Pyt
 
 
 ### Notable open source projects
+- GPT-Code UI (0 ⭐ _just launched_) - [github.com/ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)
 - Orchest (3.8k ⭐) - [github.com/orchest/orchest](https://github.com/orchest/orchest)
 - Grid Studio (8.8k ⭐) - [github.com/ricklamers/gridstudio](https://github.com/ricklamers/gridstudio)
 - Malloy for Node-RED (6 ⭐) - [ricklamers/malloy-node-red-flows](https://github.com/ricklamers/malloy-node-red-flows)
