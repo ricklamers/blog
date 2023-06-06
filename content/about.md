@@ -41,7 +41,7 @@ Some of the technologies I work with: Ray, (Py)Spark, PyTorch, Hugging Face, Pyt
 
 ### Work
 - 2023
-    - Machine Learning Engineer (contracting) - available for work, [say hi](mailto:ricklamers@gmail.com).
+    - Senior Machine Learning Engineer: [say hi](mailto:ricklamers@gmail.com).
 - 2020-2023
     - Technical Co-Founder & CEO of [Orchest](https://www.crunchbase.com/organization/orchest)
 - 2018
