@@ -9,7 +9,7 @@ hidemeta: true
 
 Hi there! Thanks for checking out my blog.
 
-**Update: following Coding with Intelligence (CoWI) for curated updates about LLMs and Machine Learning: [codingwithintelligence.substack.com](https://codingwithintelligence.substack.com/subscribe)**
+**Update: follow Coding with Intelligence (CoWI) for curated updates about LLMs and Machine Learning: [codingwithintelligence.substack.com](https://codingwithintelligence.substack.com/subscribe)**
 
 My name is **Rick Lamers**. I'm a **Machine Learning Engineer** and I live in Amsterdam.
 
