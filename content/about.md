@@ -9,6 +9,8 @@ hidemeta: true
 
 Hi there! Thanks for checking out my blog.
 
+**Update: following Coding with Intelligence (CoWI) for curated updates about LLMs and Machine Learning: [codingwithintelligence.substack.com](https://codingwithintelligence.substack.com/subscribe)**
+
 My name is **Rick Lamers**. I'm a **Machine Learning Engineer** and I live in Amsterdam.
 
 Previously, I ran a startup called Orchest. We built a workflow orchestration tool not unlike Apache Airflow. We had an open source [project](https://github.com/orchest/orchest) and offered a managed cloud service to run said open source project. We raised $4.15M but ended up giving the capital back to our investors (Gradient Ventures, Basis Set Ventures, Seedcamp, Script Capital, Data Community Fund and angels like Anthony Goldbloom) because we believed the market was too [commoditized](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/). We were able to return about $2M to investors. In addition, we were able to sell some of the developed IP in a 5-figure deal.
