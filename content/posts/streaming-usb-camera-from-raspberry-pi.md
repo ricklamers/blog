@@ -99,7 +99,7 @@ This issue is a bit particular to the PS3 eye USB camera. Its microphone has 4 c
 ### Issue 6: Getting the services to start on boot
 NGINX was easy: `sudo systemctl enable nginx`
 
-For the `ffmpeg` command I created a systemd service file in `/etc/systemd/system/ffmpeg_stream.service``:
+For the `ffmpeg` command I created a systemd service file in `/etc/systemd/system/ffmpeg_stream.service`:
 
 ```ini
 [Unit]
