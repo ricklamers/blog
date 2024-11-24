@@ -32,6 +32,7 @@ Some of the technologies I work with: Ray, (Py)Spark, PyTorch, Hugging Face, Pyt
 
 ### Notable open source projects
 - Shell-AI (119 ⭐) - [github.com/ricklamers/shell-ai](https://github.com/ricklamers/shell-ai)
+- PyImagen (1 ⭐) - [https://github.com/ricklamers/pyimagen](https://github.com/ricklamers/pyimagen)
 - GPT-Code UI (3k ⭐) - [github.com/ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)
 - Orchest (3.8k ⭐) - [github.com/orchest/orchest](https://github.com/orchest/orchest)
 - Grid Studio (8.8k ⭐) - [github.com/ricklamers/gridstudio](https://github.com/ricklamers/gridstudio)
