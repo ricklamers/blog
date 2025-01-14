@@ -26,10 +26,10 @@ UseHugoToc: true
 ---
 
 ### CommonMark live testing tool
-https://spec.commonmark.org/dingus/
+[CommonMark Dingus](https://spec.commonmark.org/dingus/) is an interactive playground for testing Markdown formatting in real-time. It's particularly useful for debugging complex Markdown syntax and seeing how it renders instantly. The tool shows both the rendered output and the HTML that gets generated, making it invaluable for precise Markdown formatting.
 
 ### Hugo docs
-https://gohugo.io/documentation/
+The [Hugo documentation](https://gohugo.io/documentation/) is the comprehensive official guide for the Hugo static site generator. It covers everything from basic setup to advanced features like templates, shortcodes, and content management. Essential reading for anyone building or maintaining a Hugo-based website.
 
 ### PaperMod docs
-https://github.com/adityatelange/hugo-PaperMod/wiki
+The [PaperMod theme wiki](https://github.com/adityatelange/hugo-PaperMod/wiki) contains detailed documentation for the PaperMod Hugo theme. It includes configuration options, customization guides, and examples for implementing various features like search, analytics, and custom styling. A must-read resource for anyone using the PaperMod theme for their Hugo site.
