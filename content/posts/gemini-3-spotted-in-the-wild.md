@@ -25,7 +25,7 @@ So I kept reading rumors that Gemini 3.0 is accessible through Google AI Studio 
 
 Gemini 3.0 is one of the most anticipated releases in AI at the moment because of the expected advances in coding performance.
 
-Evaluating models is a difficult task, but surprisingly the SVG generation task seems to be a very efficient proxy for gauging model quality as [@simonw](https://simonwillison.net/) has shown us using his "pelican riding a bicycle" test.
+Evaluating models is a difficult task, but surprisingly the SVG generation task seems to be a very efficient proxy for gauging model quality as [@simonw](https://simonwillison.net/tags/pelican-riding-a-bicycle/) has shown us using his "pelican riding a bicycle" test.
 
 Lo and behold, after trying a couple of times I got the A/B screen and got an SVG image of an Xbox 360 controller that looked VERY impressive compared to the rest of the frontier.
 
