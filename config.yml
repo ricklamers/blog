@@ -1,8 +1,10 @@
 baseURL: http://ricklamers.io
 languageCode: en-us
-paginate: 5
 title: Rick Lamers' blog
 theme: PaperMod
+
+pagination:
+  pagerSize: 5
 
 languages:
     en:
