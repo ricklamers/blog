@@ -11,7 +11,7 @@ Hi there! Thanks for checking out my blog.
 
 **Update: follow Coding with Intelligence (CoWI) for curated updates about LLMs and Machine Learning: [codingwithintelligence.substack.com](https://codingwithintelligence.substack.com/subscribe)**
 
-My name is **Rick Lamers**. I'm a **Machine Learning Engineer** and I live in Amsterdam.
+My name is **Rick Lamers**. I'm an **AI Researcher** and I live in Amsterdam.
 
 Previously, I ran a startup called Orchest. We built a workflow orchestration tool not unlike Apache Airflow. We had an open source [project](https://github.com/orchest/orchest) and offered a managed cloud service to run said open source project. We raised $4.15M but ended up giving the capital back to our investors (Gradient Ventures, Basis Set Ventures, Seedcamp, Script Capital, Data Community Fund and angels like Anthony Goldbloom) because we believed the market was too [commoditized](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/). We were able to return about $2M to investors. In addition, we were able to sell some of the developed IP in a 5-figure deal.
 
@@ -44,8 +44,12 @@ Some of the technologies I work with: Ray, (Py)Spark, PyTorch, Hugging Face, Pyt
 
 
 ### Work
-- 2023
-    - Senior Machine Learning Engineer: [say hi](mailto:ricklamers@gmail.com).
+- 2026-Present
+    - AI Researcher at [NVIDIA](https://www.nvidia.com/)
+- 2024-2026
+    - AI Researcher / Engineer at [Groq](https://groq.com/)
+- 2023-2024
+    - AI Researcher / Engineer at Definitive Intelligence (Acquired by Groq)
 - 2020-2023
     - Technical Co-Founder & CEO of [Orchest](https://www.crunchbase.com/organization/orchest)
 - 2018
