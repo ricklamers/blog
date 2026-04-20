@@ -13,7 +13,6 @@ hidemeta: false
 comments: false
 description: "How to stream a USB camera from a Raspberry Pi, tackling issues one by one."
 canonicalURL: "https://ricklamers.io/posts/streaming-usb-camera-from-raspberry-pi"
-disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false

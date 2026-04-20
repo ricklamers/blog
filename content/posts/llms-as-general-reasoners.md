@@ -12,7 +12,6 @@ hidemeta: false
 comments: false
 description: "Measuring in-context learning performance to unlock further progress"
 canonicalURL: "https://ricklamers.io/posts/llms-as-general-reasoners"
-disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false

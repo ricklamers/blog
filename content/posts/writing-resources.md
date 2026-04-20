@@ -12,7 +12,6 @@ hidemeta: false
 comments: false
 description: "Useful writing resources"
 canonicalURL: "https://ricklamers.io/posts/writing-resources"
-disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
